@@ -1,5 +1,5 @@
 # irc.py
-A simple tiny wrapper around the IRC protocol
+A tiny wrapper around the IRC protocol
 
 Example:
 
