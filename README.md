@@ -6,7 +6,6 @@ Example:
     import irc
     
     irc = Irc("example.com", 6667, ssl=False)
-    irc.connect()
     irc.user("username")
     irc.nick("username")
     irc.password("password")
